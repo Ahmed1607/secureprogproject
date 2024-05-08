@@ -8,7 +8,7 @@
 				<?php include('head.php'); ?>
 					
 				<div class="span12">
-					<form action="<?php $_PHP_SELF ?>" method="POST">	
+					<form action="student_form.php" method="POST">	
 								<div class="span5">
 								<div class="form-horizontal">
 									
